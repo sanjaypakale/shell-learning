@@ -1,0 +1,1 @@
+This repository help you to begin learning shell script programming.
